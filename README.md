@@ -1,9 +1,6 @@
 # fmdxp
 
-Exploring the depths of x86 architecture and kernel development.
+Exploring the depths of x86 architecture and kernel development. :3
 
 ### Currently focused on:
-- **[keonOS](https://github.com/fmdxp/keonOS)**: A custom 64-bit operating system.
-
-### Skills & Tech
-`C++` `C` `Python` `Make`
+- **[drakos](https://github.com/fmdxp/drakos)**: A 64-bit UEFI, Gaming Console OS, inspired by PS5, Xbox X|S and the Switch.
